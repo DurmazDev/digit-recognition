@@ -1,7 +1,5 @@
 # Yüksek Düzey Programlama - Dönem Ödevi - Digit Recognition
 
----
-
 ### **Öz**
 
 Bu çalışmada, el yazısı rakamları otomatik olarak tanıyabilen bir görüntü sınıflandırma modeli geliştirilmiştir. Modelin temelinde, görsel verilerden anlamlı özellikler çıkarabilen bir derin öğrenme yöntemi olan **Convolutional Neural Network (CNN)** bulunmaktadır.
